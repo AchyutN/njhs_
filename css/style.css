@@ -1,0 +1,129 @@
+body {
+  padding: 0;
+  background-color:  #fff;
+}
+
+
+
+
+
+
+img {
+
+  border-radius: 60%;
+  float: right;
+  width:  100px;
+
+}
+
+h3 {
+  font-family:;
+  color: #313131;
+  font-size: 25px;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+
+}
+a:link{
+	text-decoration: none;
+}
+/*CARDS*/
+.general{
+   padding: 15% 15%;
+
+}
+
+.card-body-1{
+  background-color: #00bd56;
+  color:white;
+}
+.card-body-1:hover{
+  background-color:  #259f6c;
+}
+.card-body-2{
+  background-color: #00bd56;
+    color: white;
+}
+.card-body-2:hover{
+  background-color:  #259f6c;
+}
+.card-body-3{
+  background-color: #00bd56;
+    color: white;
+}
+.card-body-3:hover{
+  background-color:  #259f6c;
+}
+/*CAROUSEL*/
+
+.Firstslide{
+  border-radius: 0%;
+  
+}
+.Secondslide{
+  
+  border-radius: 0%;
+
+}
+
+.Thirdslide{
+  border-radius: 0%;
+  
+}
+
+
+
+
+ #features{
+  padding: 7% 15%;
+  background-color: #fff;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+  color: #696464;
+}
+.icon{
+color: #00bd56; 
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:  #259f6c;
+}
+#title{
+  background-color: #259f6c;
+  color: #fff; 
+  padding-bottom: 30px;
+  padding-left: 10px;  
+}
+.nav-item{
+  padding: 0 18px
+  color:white;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: :"Montserrat";
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+.carousel-inner{
+padding: 7% 15%;
+background-color: #259f6c;
+}
+.list{
+ text-align: center;
+ padding-bottom: 15%;
+ margin-left:5%;
+}
+.fun{
+
+}
+.card-img-top{
+  border-radius:  0;
+}
